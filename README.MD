@@ -2,16 +2,16 @@ The Train Reservation System is a Python-based project that simulates real-world
 
 This project demonstrates Database Management System (DBMS) integration with Python, using mysql.connector.
 
-🛠 Features
+Features
 
-✅ Book Ticket: Reserve a seat on a train with passenger details.
+Book Ticket: Reserve a seat on a train with passenger details.
 
-✅ Cancel Ticket: Cancel an existing reservation by ticket ID.
+Cancel Ticket: Cancel an existing reservation by ticket ID.
 
-✅ View Train Info: Check details of a train, including available seats.
+View Train Info: Check details of a train, including available seats.
 
-✅ View Passenger Info: Retrieve booking details of a passenger.
+View Passenger Info: Retrieve booking details of a passenger.
 
-✅ Predefined Trains: Some sample trains are preloaded into the database.
+Predefined Trains: Some sample trains are preloaded into the database.
 
-✅ Unique Ticket IDs & Seat Numbers: Automatically generated during booki
+Unique Ticket IDs & Seat Numbers: Automatically generated during booki
